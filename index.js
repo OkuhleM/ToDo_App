@@ -9,7 +9,7 @@
       myNodelist[i].appendChild(span);
     }
 
-    // attempting to hide the close button
+   
     var close = document.getElementsByClassName("close");
     var i;
     for (i = 0; i < close.length;i++) {
